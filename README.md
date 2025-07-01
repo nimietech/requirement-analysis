@@ -108,6 +108,10 @@ Use case diagrams show how different users (actors) interact with the system to 
     
     Facilitate communication among stakeholders and development team.
 
+# Use Case Diagram 
+![](alx-booking-uc.png)
+
+
 # Acceptance Criteria
 ### Important of Acceptance Criteria
     Ensure all parties have a clear understanding of feature requirements.
@@ -115,3 +119,6 @@ Use case diagrams show how different users (actors) interact with the system to 
     Provide a basis for testing and validation.
     
     Help in maintaining quality and meeting user expectations.
+
+### An example of acceptance criteria
+As a registered user, I want to be able to complete my booking by checking out, so I can confirm my reservation and make payment.
